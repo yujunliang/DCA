@@ -113,7 +113,7 @@ DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - Demonstrate how storage can be used across cluster nodes
 - Identity roles
 - [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
-- Describe process to use external certificates with UCP and DTR
+- [Describe process to use external certificates with UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/integrate-with-dtr/)
 
 ## Links
 
