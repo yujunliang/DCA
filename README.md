@@ -99,6 +99,9 @@ registry, and UCP controllers
 - [Describe default engine security](https://docs.docker.com/engine/security/security/)
 - [Describe swarm default security](https://docs.docker.com/engine/swarm/how-swarm-mode-works/pki/)
 - [Describe MTLS](https://diogomonica.com/2017/01/11/hitless-tls-certificate-rotation-in-go/)
+- [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/)
+- [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
+- [Describe process to use external certificates with UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/integrate-with-dtr/)
 
 ### Domain 6: Storage and Volumes (10% of exam)
 - [State which graph driver should be used on which OS](https://docs.docker.com/engine/userguide/storagedriver/selectadriver/)
@@ -111,9 +114,7 @@ the filesystem](https://medium.com/@jessgreb01/digging-into-docker-layers-c22f94
 - [Identify the steps you would take to clean up unused images on a filesystem, also on
 DTR](https://docs.docker.com/engine/reference/commandline/image_prune/)
 - Demonstrate how storage can be used across cluster nodes
-- [Identity roles](https://docs.docker.com/datacenter/ucp/2.2/guides/access-control/permission-levels/)
-- [Describe the difference between UCP workers and managers](https://docs.docker.com/datacenter/ucp/2.2/guides/architecture/)
-- [Describe process to use external certificates with UCP and DTR](https://docs.docker.com/datacenter/ucp/2.2/guides/admin/configure/integrate-with-dtr/)
+
 
 ## Links
 
